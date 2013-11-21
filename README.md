@@ -1,7 +1,7 @@
-MyFirstTracker
+MyFirstLongPoll
 ==============
 
-MyFirstLong Sample App for AerCloud. You can use this app with the AerCloud 
+MyFirstLongPoll Sample App for AerCloud. You can use this app with the AerCloud 
 [Get Started Guide](https://aeriscom.jira.com/wiki/display/DOCS/Getting+Started).
 The difference between this app and the [MyFirstTracker](https://github.com/aercloud/MyFirstTracker) 
 app is that you can use long-polling to continuously receive live data feed from 
